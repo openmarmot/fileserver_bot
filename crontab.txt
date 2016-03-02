@@ -1,0 +1,4 @@
+#run file server bot
+*/5 * * * * /usr/bin/python3 /usr/local/sbin/file_bot/fileserver_bot.py
+
+
