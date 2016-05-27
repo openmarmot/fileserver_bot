@@ -4,7 +4,7 @@
 #module: module_template.py
 #version: 0.1
 #author: andrew christ
-#email: andrew.christ@gmail.com
+#email: andrew@openmarmot.com
 #last update: 2015
 #notes:
 #--------------------------------------------------
